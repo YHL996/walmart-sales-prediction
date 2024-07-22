@@ -1,4 +1,4 @@
-Project title: Forecasting Walmart Sales with Machine Learning (Kaggle Competition https://www.kaggle.com/competitions/m5-forecasting-accuracy)
+# Project title: Forecasting Walmart Sales with Machine Learning (Kaggle Competition https://www.kaggle.com/competitions/m5-forecasting-accuracy)
 
 The presentation file can be found here: https://github.com/YHL996/walmart-sales-prediction/blob/main/ML_project.pdf
 
